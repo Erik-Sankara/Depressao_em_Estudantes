@@ -18,3 +18,5 @@
   - PANDAS
   - VS CODE
 
+# DADOS UTILIZADOS:
+-**Student Depression Detection Dataset:** (https://www.kaggle.com/datasets/mkhoirulmustaqim/student-depression-detection-dataset?resource=download&select=Student+Depression+Detection+Dataset)
